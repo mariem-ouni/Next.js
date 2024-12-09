@@ -1,0 +1,34 @@
+.projectContainer {
+    padding: 20px;
+    background-color: #f4f4f4; /* Light gray background */
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .projectCard {
+    background-color: #fff;  /* White background for each card */
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .projectTitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .projectDescription {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .projectImage {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  

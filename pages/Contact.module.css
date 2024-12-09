@@ -1,0 +1,19 @@
+
+
+.container{
+  max-width: 800px;
+  margin: 0 auto;
+  
+}
+.titel{
+   text-align: center;
+   
+}
+.form{
+  display: grid;
+  grid-template-columns: auto;
+gap: 20px;
+}
+.input{
+ height: 50px;
+}
